@@ -1,7 +1,5 @@
-# Análise de conversas no WhatsApp
-
-Um repositório que tem como objetivo o estudo da análise de dados aplicada às conversas do WhatsApp. Em andamento....
+# WhatsApp conversation analysis
 
 <p align="center">
-  <img src="wpp.png" width="200" height="200" />
+  <img src="img/8-5-21.png" width="300" height="300" />
 </p>
